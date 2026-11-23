@@ -24,8 +24,6 @@ Keep the f-string interpolation style as-is; renaming the function or parameteri
 
 # Workspace overview
 
-THREE independent subtasks live under this directory — one per folder. Complete all of them so every subtask's tests pass; each is self-contained and uses only files under its own folder.
+This directory contains a single task. Complete it so its tests pass; it is self-contained and uses only files under its own folder.
 
 - `cobol/` — re-implement the COBOL program in Python.
-- `modern1/` — modernize fortran build.
-- `solvemaz/` — solve maze challenge.
